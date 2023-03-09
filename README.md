@@ -4,7 +4,7 @@
 
 1. Clone the repository
 ```
-git clone https://github.com/BHANUREDDYCHADA/SequentailExeUsingDocker
+git clone https://github.com/BHANUREDDYCHADA/SequentailExeUsingDocker-main
 ```
 
 2. Change the directory to SequentailExeUsingDocker.
